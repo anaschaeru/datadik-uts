@@ -1,3 +1,7 @@
+body {
+  color: #696969 !important;
+}
+
 .bg-primary {
   background-color: #0078AA !important;
 }
@@ -5,3 +9,4 @@
 .border-warning {
   border-color: #F2DF3A !important;
 }
+
