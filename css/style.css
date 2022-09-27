@@ -6,6 +6,11 @@ body {
   background-color: #0078AA !important;
 }
 
+.btn-primary {
+  background-color: #0078AA !important;
+  border: #0078AA;
+}
+
 .border-warning {
   border-color: #F2DF3A !important;
 }
